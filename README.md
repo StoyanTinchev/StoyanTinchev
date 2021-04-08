@@ -1,6 +1,6 @@
 # Hi there 👋
 
-####- 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
+###- 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
 
 ####- 🔭 I’m currently working on [Project remote glove](https://github.com/StoyanTinchev/Project_remote_glove)
 
