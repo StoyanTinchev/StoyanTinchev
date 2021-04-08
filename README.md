@@ -28,12 +28,12 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StoyanTinchev&show_icons=true&locale=en&layout=compact" alt="StoyanTinchev" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=StoyanTinchev&" alt="StoyanTinchev" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=StoyanTinchev&show_icons=true&locale=en&layout=compact" alt="StoyanTinchev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&locale=en" alt="StoyanTinchev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StoyanTinchev&" alt="StoyanTinchev" /></p>
-
 
 <!--
 **StoyanTinchev/StoyanTinchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
