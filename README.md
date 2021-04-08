@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1>
 
 
-<h2 align="left"> What about me? </h2>
+## What about me?
 
 #### - 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
 
