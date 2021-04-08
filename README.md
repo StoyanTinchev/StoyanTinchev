@@ -1,14 +1,14 @@
 # Hi there 👋
 
-#### 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
+#### - 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
 
-#### 🔭 I’m currently working on [Project remote glove](https://github.com/StoyanTinchev/Project_remote_glove)
+#### - 🔭 I’m currently working on [Project remote glove](https://github.com/StoyanTinchev/Project_remote_glove)
 
-#### 🔭 I’m currently working on [musicial-tesla-coil](https://github.com/StoyanTinchev/musicial-tesla-coil)
+#### - 🔭 I’m currently working on [musicial-tesla-coil](https://github.com/StoyanTinchev/musicial-tesla-coil)
 
-#### 🌱 I’m currently learning **python and Java**
+#### - 🌱 I’m currently learning **python and Java**
 
-#### 📫 How to reach me: **st8tinchev@gmail.com**
+#### - 📫 How to reach me: **st8tinchev@gmail.com**
 
 <h2 align="left">Programming skills:</h2>
 <p align="left"> 
