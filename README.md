@@ -6,9 +6,10 @@
 
 #### - 🔭 I’m currently working on [musicial-tesla-coil](https://github.com/StoyanTinchev/musicial-tesla-coil)
 
-#### - 🌱 I’m currently learning **python and Java**
+#### - 🌱 I’m currently learning *python and Java*
 
-#### - 📫 How to reach me: **st8tinchev@gmail.com**
+#### - 📫 How to reach me: *st8tinchev@gmail.com* or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a>
+
 
 <h2 align="left">Programming skills:</h2>
 <p align="left"> 
