@@ -32,8 +32,8 @@
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=StoyanTinchev&show_icons=true&locale=en&layout=compact" alt="StoyanTinchev" /> 
     </td>
     <td align="center">
-        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=StoyanTinchev&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&theme=merko&hide_border=true" />
+        <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=StoyanTinchev&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&theme=merko&hide_border=true" />
     </td>
   </tr>  
 </table>
