@@ -1,4 +1,6 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center">
+  <img width="30%" src="https://github.com/StoyanTinchev/StoyanTinchev/raw/master/lang.gif" alt="lang image here" />
+</p>
 
 <table align="center" width="100%" height="100%">
   <tr>
