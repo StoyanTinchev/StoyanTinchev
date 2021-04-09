@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" src="https://github.com/StoyanTinchev/StoyanTinchev/raw/master/lang.gif" alt="lang image here" />
+  <img width="30%" src="https://github.com/StoyanTinchev/StoyanTinchev/blob/main/lang.gif" alt="lang image here" />
 </p>
 
 <table align="center" width="100%" height="100%">
