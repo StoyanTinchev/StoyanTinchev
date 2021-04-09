@@ -1,19 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
 
-
-## What about me?
-
-#### - 🔭 I’m currently working on [Verda](https://github.com/boki1/verda)
-
-#### - 🔭 I’m currently working on [Project remote glove](https://github.com/StoyanTinchev/Project_remote_glove)
-
-#### - 🔭 I’m currently working on [musicial-tesla-coil](https://github.com/StoyanTinchev/musicial-tesla-coil)
-
-#### - 🌱 I’m currently learning *python and Java*
-
-#### - 📫 How to reach me: *st8tinchev@gmail.com* or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a>
-
-
 ## Programming skills:
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -28,15 +14,20 @@
 <table align="center" width="100%" height="100%">
   <tr>
     <td align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=StoyanTinchev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=StoyanTinchev&show_icons=true&locale=en&layout=compact" alt="StoyanTinchev" /> 
-    </td>
+        <h2>What about me?</h2>
+        <h6>- 🔭 I’m currently working on <a href="https://github.com/boki1/verda">Verda</a></h6>
+        <h6>- 🔭 I’m currently working on <a href="https://github.com/StoyanTinchev/Project_remote_glove">Project remote glove</a></h6>
+        <h6>- 🔭 I’m currently working on <a href="https://github.com/StoyanTinchev/musicial-tesla-coil">musicial-tesla-coil</a></h6>
+        <h6>- 🌱 I’m currently learning python and Java</h6>
+        <h6>- 📫 How to reach me: *st8tinchev@gmail.com* or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a></h6>
+ </td>
     <td align="center">
-        <img width="50%" src="https://activity-graph.herokuapp.com/graph?username=StoyanTinchev&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&theme=merko&hide_border=true" />
+        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=StoyanTinchev&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&theme=merko&hide_border=true" />
     </td>
   </tr>  
 </table>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=StoyanTinchev&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 
 
 <!--
