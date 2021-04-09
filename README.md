@@ -8,7 +8,7 @@
         <h4>- 🔭 I’m currently working on <a href="https://github.com/StoyanTinchev/Project_remote_glove">Project remote glove</a></h4>
         <h4>- 🔭 I’m currently working on <a href="https://github.com/StoyanTinchev/musicial-tesla-coil">musicial-tesla-coil</a></h4>
         <h4>- 🌱 I’m currently learning python and Java</h4>
-        <h4>- 📫 How to reach me: st8tinchev@gmail.com or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a></h4>
+        <h4>- 📫 How to reach me: <a href="mailto:st8tinchev@gmail.com">st8tinchev@gmail.com</a> or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a></h4>
  </td>
     <td align="center">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&theme=merko&hide_border=true" />
