@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 </h1>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ## Programming skills:
 <p align="left"> 
@@ -22,8 +22,8 @@
         <h4>- 📫 How to reach me: *st8tinchev@gmail.com* or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a></h4>
  </td>
     <td align="center">
-        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=StoyanTinchev&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=StoyanTinchev&show_icons=true&theme=merko&hide_border=true" />
+        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=StoyanTinchev&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
     </td>
   </tr>  
 </table>
