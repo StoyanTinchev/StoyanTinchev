@@ -2,6 +2,10 @@
   <img width="30%" src="lang.gif" alt="lang image here" />
 </p>
 
+<!-- <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=StoyanTinchev&label=Profile%20visits&color=000000&style=flat" alt="StoyanTinchev"/>
+</p> -->
+
 <table align="center" width="100%" height="100%">
   <tr>
     <td align="center">
