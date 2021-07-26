@@ -10,6 +10,7 @@
   <tr>
     <td align="center">
         <h2>What about me?</h2>
+        <h4>- 🔭 I’m currently working on <a href="https://github.com/boki1/eugene">musicial-tesla-coil</a></h4>
         <h4>- 🔭 I’m currently working on <a href="https://github.com/StoyanTinchev/musicial-tesla-coil">musicial-tesla-coil</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/boki1/verda">Verda</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/StoyanTinchev/Project_remote_glove">Project remote glove</a></h4>
