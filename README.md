@@ -14,7 +14,7 @@
         <h4>- 🔭 I’m currently working on <a href="https://github.com/StoyanTinchev/musicial-tesla-coil">musicial-tesla-coil</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/boki1/verda">Verda</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/StoyanTinchev/Project_remote_glove">Project remote glove</a></h4>
-        <h4>- 🌱 I’m currently learning python and Java</h4>
+        <h4>- 🌱 I’m currently learning C++20 and Kotlin</h4>
         <h4>- 📫 How to reach me: <a href="mailto:st8tinchev@gmail.com">st8tinchev@gmail.com</a> or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a></h4>
  </td>
     <td align="center">
@@ -31,6 +31,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
