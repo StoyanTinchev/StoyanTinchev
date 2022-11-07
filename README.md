@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
         <h2>What about me?</h2>
-        <h4>- 🔭 My thesis project was <a href="https://github.com/boki1/eugene">enguene</a></h4>
+        <h4>- 🔭 My thesis project was <a href="https://github.com/boki1/eugene">eugene</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/AntonioK180/react-trello-board">react-trello-board</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/VayerMaking/lemniskata">lemniskata</a></h4>
         <h4>- 🔭 One of my previous projects is <a href="https://github.com/boki1/verda">Verda</a></h4>
