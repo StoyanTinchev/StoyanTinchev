@@ -10,11 +10,12 @@
   <tr>
     <td align="center">
         <h2>What about me?</h2>
-        <h4>- 🔭 My thesis project was <a href="https://github.com/boki1/eugene">eugene</a></h4>
-        <h4>- 🔭 One of my previous projects is <a href="https://github.com/AntonioK180/react-trello-board">react-trello-board</a></h4>
-        <h4>- 🔭 One of my previous projects is <a href="https://github.com/VayerMaking/lemniskata">lemniskata</a></h4>
-        <h4>- 🔭 One of my previous projects is <a href="https://github.com/boki1/verda">Verda</a></h4>
-        <h4>- 🌱 I’m currently learning Futter and Multiplatform development</h4>
+        <h4>Just achieved a hat trick of consecutive victories at the emblematic TUES hackathon. Here's the winning projects by years:</h4>
+        <h4>- 🔭 Second place at 11th grade with <a href="https://github.com/boki1/verda">Verda</a></h4>
+        <h4>- 🔭 First place at 12th grade with <a href="https://github.com/VayerMaking/lemniskata">lemniskata</a></h4>
+        <h4>- 🔭 First place on the tenth anniversary edition (HackTUES X 2024) which allowed the participation of graduated students and had fierce competition <a href="https://github.com/svetl-io">svetlio</a></h4>
+        <h4>- 🌱 I’m currently working with Futter and Multiplatform development. Apps like teodor, tehnomix, douglas... :)</h4>
+        <h4>- 🔭 My TUES (12th grade) thesis project was <a href="https://github.com/boki1/eugene">eugene</a></h4>
         <h4>- 📫 How to reach me: <a href="mailto:st8tinchev@gmail.com">st8tinchev@gmail.com</a> or <a href="https://www.linkedin.com/in/stoyan-tinchev-524949208" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="stoyan-tinchev" height="30" width="40" /></a></h4>
  </td>
     <td align="center">
